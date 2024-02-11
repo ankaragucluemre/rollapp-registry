@@ -1,6 +1,6 @@
 {
   "chainId": "sontr_6491350-1",
-  "chainName": "sontr_6491350-1",
+  "chainName": "sontr",
   "rpc": "http://165.232.41.109:26657",
   "rest": "http://165.232.41.109:1317",
   "bech32Prefix": "ethm",
@@ -9,7 +9,7 @@
       "displayDenom": "str",
       "baseDenom": "ustr",
       "decimals": 18,
-      "logo": "/logos/sontr_6491350-1.png",
+      "logo": "/logos/sontr_6491350-1.png.png",
       "type": "main"
     }
   ],
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x630cd6",
-    "rpc": "http://165.232.41.109:8445"
+    "rpc": "http://165.232.41.109:8545"
   },
   "type": "RollApp",
   "da": "Avail",
